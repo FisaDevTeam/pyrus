@@ -6,7 +6,7 @@ import library.cryptography as cr
 import library.mpath as mp
 #Informations à paramétrer selon vos besoins
 operatingSystem = ""#1 = Windows 2 = MacOs 3 = Linux
-host = "uplacraft.fr"
+host = ""
 port = 22 #Port N°21 pour du ftp normal; Port N°22 pour du sftp.
 timeout = 999
 user = "sftp"
